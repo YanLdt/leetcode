@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1-two-sum/1-two-sum.iml" filepath="$PROJECT_DIR$/1-two-sum/1-two-sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/2-add-two-numbers/2-add-two-numbers.iml" filepath="$PROJECT_DIR$/2-add-two-numbers/2-add-two-numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-longest-substring-without-repeating-characters/3-longest-substring-without-repeating-characters.iml" filepath="$PROJECT_DIR$/3-longest-substring-without-repeating-characters/3-longest-substring-without-repeating-characters.iml" />
       <module fileurl="file://$PROJECT_DIR$/code.iml" filepath="$PROJECT_DIR$/code.iml" />
     </modules>
   </component>
