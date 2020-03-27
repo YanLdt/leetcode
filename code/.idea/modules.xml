@@ -7,8 +7,10 @@
       <module fileurl="file://$PROJECT_DIR$/3-longest-substring-without-repeating-characters/3-longest-substring-without-repeating-characters.iml" filepath="$PROJECT_DIR$/3-longest-substring-without-repeating-characters/3-longest-substring-without-repeating-characters.iml" />
       <module fileurl="file://$PROJECT_DIR$/365-jug-problem/365-jug-problem.iml" filepath="$PROJECT_DIR$/365-jug-problem/365-jug-problem.iml" />
       <module fileurl="file://$PROJECT_DIR$/876-middlenode/876-middlenode.iml" filepath="$PROJECT_DIR$/876-middlenode/876-middlenode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/914hasGroupsSizeX/914hasGroupsSizeX.iml" filepath="$PROJECT_DIR$/914hasGroupsSizeX/914hasGroupsSizeX.iml" />
       <module fileurl="file://$PROJECT_DIR$/945-minIncrementForUnique/945-minIncrementForUnique.iml" filepath="$PROJECT_DIR$/945-minIncrementForUnique/945-minIncrementForUnique.iml" />
       <module fileurl="file://$PROJECT_DIR$/code.iml" filepath="$PROJECT_DIR$/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interview-massage/interview-massage.iml" filepath="$PROJECT_DIR$/interview-massage/interview-massage.iml" />
     </modules>
   </component>
 </project>
